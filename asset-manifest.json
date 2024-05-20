@@ -8,7 +8,7 @@
     "static/media/akira_resume.pdf": "./static/media/akira_resume.fceb3e92f5f5edb8da2f.pdf",
     "static/media/nestjs.svg": "./static/media/nestjs.ef4268f5bb32b733c0f23bf56867a659.svg",
     "static/media/postgresql.svg": "./static/media/postgresql.c5a8aa7dc61d20179dd5bd3dd7ef19f1.svg",
-    "static/media/mysql.svg": "./static/media/mysql.31ae26aa6584ebd5494377e0178b3d7e.svg",
+    "static/media/mysql.svg": "static/media/mysql.31ae26aa6584ebd5494377e0178b3d7e.svg",
     "static/media/illustration.svg": "./static/media/illustration.cf4b7a67f23b684549c4f797c62b527a.svg",
     "static/media/sass-icon.svg": "./static/media/sass-icon.3572f53ec4f404e921a9e8193cdb70fe.svg",
     "static/media/laravel.svg": "/static/media/laravel.546b06c50e9bb406a58acd3f93fc14bd.svg",
